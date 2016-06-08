@@ -1,0 +1,14 @@
+layout_spectrum: 0.575802490580827
+typography_spectrum: 0.6857858577277511
+color:
+  brandStrength: 0.6953108420129865
+  lightness: 0.3979248327668756
+  saturation: 0.6654683460947126
+  rhythmicContrast: 0.46702094725333154
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Lazar Observatory
